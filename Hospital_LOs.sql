@@ -1,4 +1,6 @@
-.issions this period
+--Hospital Length of Stay Analysis
+
+Admissions this period
 SELECT
 COUNT(PatientMRN) as TotalPatients
 FROM
